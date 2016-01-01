@@ -1,7 +1,7 @@
 Package.describe({
     name: 'talos:mdl',
     version: '1.0.6_2',
-    summary: 'A wrapper package for Google\'s Material Design Lite.'
+    summary: 'Adds Sass support to zodiase:mdl'
 });
 
 Package.onUse(function (api) {
