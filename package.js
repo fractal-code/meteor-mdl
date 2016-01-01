@@ -1,6 +1,6 @@
 Package.describe({
     name: 'talos:mdl',
-    version: '1.0.6_2',
+    version: '1.0.6_1',
     summary: 'Adds Sass support to zodiase:mdl'
 });
 
