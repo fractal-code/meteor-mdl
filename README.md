@@ -1,4 +1,4 @@
-## talos-code:mdl
+## Material Design Lite for Meteor
 
 Augments [zodiase:mdl](https://github.com/Zodiase/meteor-mdl) to add Sass support.
 
