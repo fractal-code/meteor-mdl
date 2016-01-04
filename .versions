@@ -10,5 +10,5 @@ fourseven:scss@3.4.1
 meteor@1.1.10
 promise@0.5.1
 random@1.0.5
-talos:mdl@1.0.6_1
+talos:mdl@1.1.0-dev_1
 underscore@1.0.4
