@@ -43,6 +43,7 @@ Package.onUse(function (api) {
         'sass/card/_card.scss',
         'sass/checkbox/_checkbox.scss',
         'sass/data-table/_data-table.scss',
+        'sass/dialog/_dialog.scss',
         'sass/footer/_mega_footer.scss',
         'sass/footer/_mini_footer.scss',
         'sass/grid/_grid.scss',
