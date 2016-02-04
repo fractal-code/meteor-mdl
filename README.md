@@ -1,6 +1,4 @@
-## Material Design Lite for Meteor
-
-Augments [zodiase:mdl](https://github.com/Zodiase/meteor-mdl) to add Sass support.
+# DEPRECIATED in favor of [zodiase:mdl](https://github.com/Zodiase/meteor-mdl)
 
 ## Installation
 
